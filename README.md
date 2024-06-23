@@ -10,3 +10,5 @@ Provide social media handles
 Switch between light and dark modes
 
 Page is responsive - using media queries
+
+Live Link : https://pavikkangotra.github.io/Dev-Detective/
